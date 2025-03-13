@@ -1,6 +1,6 @@
 # socialweb  
 
-## Social-medial style app (Reddit Clone) 
+## social media style web app (Reddit Clone) 
 - React/Typescript with GraphQL (React Query)
 - [Supabase](https://supabase.com) back-end.
 
