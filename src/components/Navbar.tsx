@@ -12,7 +12,7 @@ export const Navbar = () => {
       <div className="max-w-5xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="font-mono text-xl font-bold text-white">
-            <span className="text-blue-500">apdev</span>social<span className="text-blue-300">.app</span>
+            <span className="text-blue-500">apsocial</span>.dev
           </Link>
 
           {/* Desktop Links */}
@@ -67,7 +67,7 @@ export const Navbar = () => {
                 onClick={signInWithGitHub}
                 className="bg-blue-500 px-3 py-1 rounded"
               >
-                Sign in with GitHub
+                Sign In
               </button>
             )}
           </div>
